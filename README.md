@@ -1,2 +1,2 @@
-# Nh-m-12
+# Nhóm-12
 HỆ THỐNG BĂNG CHUYỀN PHÂN LOẠI SẢN PHẨM BĂNG XỬ LÝ ẢNH
