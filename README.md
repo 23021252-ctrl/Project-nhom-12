@@ -10,3 +10,5 @@ Giảng viên: PGS. TS. Phạm Mạnh Thắng
 Trường: Đại học Công nghệ, ĐHQGHN
 
 Toi la Nguyen Truong Giang
+
+Thành viên nhóm: Lê Hoàng Khoa
